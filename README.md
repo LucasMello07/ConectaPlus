@@ -17,5 +17,5 @@
   - Testes realizados com **TestLink**.  
 
 ## 🚀 Tecnologias Utilizadas  
-- **Front-End**: HTML5, CSS3, JavaScript.  
+- **Front-End**: HTML5, CSS3, JavaScript e Bootstrap.  
 - **Back-End**: MySQL (o desenvolvimento do Back-End está planejado e será implementado nas próximas etapas do projeto).  
