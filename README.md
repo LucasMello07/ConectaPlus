@@ -11,7 +11,7 @@
   - Design responsivo, garantindo acessibilidade em dispositivos móveis e desktops.  
   - Personalização e estilo visual para uma experiência intuitiva e profissional.  
 
-- **Documentação**: Elaboração de requisitos, casos de uso, diagramas de entidade-relacionamento e artigo técnico.  
+- **Documentação**: Elaboração de requisitos, casos de uso, diagramas de entidade-relacionamento e artigo.  
 - **Metodologias e Ferramentas**:  
   - Metodologias ágeis, como **Kanban**.  
   - Testes realizados com **TestLink**.  
